@@ -12,10 +12,8 @@ public class seleniumDemo {
 		WebDriver driver = new FirefoxDriver();
 		
 		driver.get("https://www.google.ca/");
+		
 		driver.quit();
-		
-		
-
 	}
 
 }
